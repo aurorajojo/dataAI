@@ -1,4 +1,4 @@
-簡體轉繁體完，下列支語也轉換完
+簡體轉繁體完，下列支語也轉換完畢
 
             if "晚上好" in message["content"]:
                 message["content"] = message["content"].replace("晚上好", "晚安")
